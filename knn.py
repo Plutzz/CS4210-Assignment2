@@ -1,9 +1,10 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Benjamin Jiongco
+# FILENAME: knn.py
+# SPECIFICATION: Complete the Python program (knn.py) to read the file email_classification.csv 
+# and compute the LOO-CV error rate for a 1NN classifier on the spam/ham classification task.
 # FOR: CS 4210- Assignment #2
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 40 mins
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard vectors and arrays
