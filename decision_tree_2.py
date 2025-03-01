@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Benjamin Jiongco
 # FILENAME: decision_tree2.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: Your goal is to train, test, and output the performance ofthe 3 models created by using each training set on the test set provided
 # FOR: CS 4210- Assignment #2
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 30 Mins
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard
